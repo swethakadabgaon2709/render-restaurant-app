@@ -1,0 +1,35 @@
+{
+  "dishes": [
+    { "id": 1, "title": "Bacon Breakfast", "price": 180, "category": "Breakfast", "image": "/Bacon_breakfast.jpg" },
+    { "id": 2, "title": "Breakfast Burrito", "price": 200, "category": "Breakfast", "image": "/BreakfastBurrito_breakfast.jpg" },
+    { "id": 3, "title": "Croissant", "price": 150, "category": "Breakfast", "image": "/Croissant_breakfast.jpg" },
+    { "id": 4, "title": "Egg Sandwich", "price": 160, "category": "Breakfast", "image": "/EggSandwich_breakfast.jpg" },
+    { "id": 5, "title": "Hash Browns", "price": 140, "category": "Breakfast", "image": "/HashBrowns_breakfast.jpg" },
+    { "id": 6, "title": "Oatmeal Oasis", "price": 130, "category": "Breakfast", "image": "/oatMealOasis_breakfast.jpg" },
+    { "id": 7, "title": "Pancakes", "price": 170, "category": "Breakfast", "image": "/Pancakes_brekfast.jpg" },
+
+    { "id": 8, "title": "Burrito Meal", "price": 280, "category": "Meal", "image": "/Burrito_meal.webp" },
+    { "id": 9, "title": "Fried Rice", "price": 260, "category": "Meal", "image": "/Fried Rice_meal.jpg" },
+    { "id": 10, "title": "Pizza", "price": 320, "category": "Meal", "image": "/Pizza_meal.avif" },
+    { "id": 11, "title": "Ramen", "price": 300, "category": "Meal", "image": "/Ramen_meal.jpg" },
+    { "id": 12, "title": "Sushi", "price": 350, "category": "Meal", "image": "/sushi_meal.jpg" },
+    { "id": 13, "title": "Spring Rolls", "price": 220, "category": "Meal", "image": "/Spring Rolls_meal.jpg" },
+
+    { "id": 14, "title": "Ariselu", "price": 120, "category": "Snacks", "image": "/Ariselu_snacks.jpg" },
+    { "id": 15, "title": "Banana Fritter", "price": 110, "category": "Snacks", "image": "/Banana fritter_snacks.jpg" },
+    { "id": 16, "title": "Falafel", "price": 150, "category": "Snacks", "image": "/Falafel_snacks.jpg" },
+    { "id": 17, "title": "Zeppole", "price": 140, "category": "Snacks", "image": "/Zeppole_snacks.jpg" },
+
+    { "id": 18, "title": "Aamras", "price": 130, "category": "Dessert", "image": "/Aamras_desert.jpg" },
+    { "id": 19, "title": "Bread Pudding", "price": 160, "category": "Dessert", "image": "/bread pudding_desert.jpg" },
+    { "id": 20, "title": "Custards", "price": 140, "category": "Dessert", "image": "/Custards_desert.jpg" },
+    { "id": 21, "title": "Fruit Cocktail", "price": 150, "category": "Dessert", "image": "/Fruit cocktail_desert.jpg" },
+    { "id": 22, "title": "Macaroons", "price": 180, "category": "Dessert", "image": "/Macaroons_desert.jpg" },
+    { "id": 23, "title": "Waffle", "price": 190, "category": "Dessert", "image": "/Waffle_desert.jpg" },
+
+    { "id": 24, "title": "Cold Coffee", "price": 120, "category": "Drinks", "image": "/Cold Coffee_drinks.jpg" },
+    { "id": 25, "title": "Kanji", "price": 90, "category": "Drinks", "image": "/Kanji Recipe_drinks.jpg" },
+    { "id": 26, "title": "Kokum Juice", "price": 100, "category": "Drinks", "image": "/Kokum Juice_drinls.webp" },
+    { "id": 27, "title": "Lassi", "price": 110, "category": "Drinks", "image": "/Lassi.jpg" }
+  ]
+}
