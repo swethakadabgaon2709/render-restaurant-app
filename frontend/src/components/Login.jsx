@@ -13,7 +13,8 @@ const Login = ({ setUser }) => {
 
     try {
       const res = await axios.post(
-        "http://localhost:4000/api/v1/auth/login",
+        // "http://localhost:4000/api/v1/auth/login",
+        `${import.meta.env.VITE_API_URL}/api/v1/auth/login`
         { email, password, role },
         { withCredentials: true }
       );
